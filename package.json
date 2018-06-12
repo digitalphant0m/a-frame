@@ -1,0 +1,19 @@
+{
+  "name": "a-frame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "author": "digitalphant0m",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "express": "^4.16.3",
+    "webpack": "^4.6.0",
+    "webpack-dev-middleware": "^3.1.3"
+  }
+}
