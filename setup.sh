@@ -26,3 +26,8 @@ npm i
 
 echo 'FILES ARE COPIED TO:=> '  
 pwd
+
+cd ../
+
+echo 'REMOVING POSTHASTE'
+rm -rf posthaste
