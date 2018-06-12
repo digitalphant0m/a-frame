@@ -11,11 +11,22 @@ Posthaste gives you a quickstart into A-Frame using webpack and express to compi
 ### COMPILE
 
 ```
+git clone https://github.com/digitalphant0m/posthaste.git
+
 cd posthaste
 
 chmod +x setup.sh
 
 ./setup.sh [name_of_project]
+
+cd ..
+```
+
+### CONCLUSION 
+Now you should have a project folder with code to run a A-Frame Environment!
+
+```
+npm start
 ```
 
 ### ACKNOWLEDGEMENTS
