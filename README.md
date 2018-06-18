@@ -15,8 +15,6 @@ git clone https://github.com/digitalphant0m/godspeed.git
 
 cd godspeed
 
-chmod +x setup.sh
-
 ./setup.sh [name_of_project]
 
 cd ..
