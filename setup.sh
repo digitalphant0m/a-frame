@@ -29,5 +29,3 @@ pwd
 
 cd ../
 
-echo 'SELF DESTRUCT'
-rm -rf posthaste

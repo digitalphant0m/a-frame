@@ -1,9 +1,5 @@
 
-let content = document.getElementById('content')
-
-// Initializing A-Scene primitive 
-let scene = document.createElement('a-scene')
-content.append(scene)
+let scene = document.getElementById('a-scene')
 
 // Creating environment with A-Frame Extensions
 let env = document.createElement('a-entity')
