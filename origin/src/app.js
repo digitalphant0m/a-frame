@@ -1,5 +1,5 @@
 
-let scene = document.getElementById('a-scene')
+let scene = document.getElementById('scene')
 
 // Creating environment with A-Frame Extensions
 let env = document.createElement('a-entity')
