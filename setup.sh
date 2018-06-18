@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo '......................'
-echo '<=:WELCOME TO POSTHASTE:=>'
+echo '<=:WELCOME TO GODSPEED:=>'
 echo '......................'
 
 printf '\n'
@@ -12,7 +12,7 @@ cd ../
 
 mkdir $1
 
-cd posthaste/origin
+cd godspeed/origin
 
 cp {package.json,server.js,webpack.config.js} ../../$1
 
@@ -29,5 +29,5 @@ pwd
 
 cd ../
 
-echo 'REMOVING POSTHASTE'
+echo 'SELF DESTRUCT'
 rm -rf posthaste
