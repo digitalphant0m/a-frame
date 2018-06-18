@@ -1,6 +1,6 @@
-## POSTHASTE
+## GODSPEED
 
-Posthaste gives you a quickstart into A-Frame using webpack and express to compile and run your JS! Run the bash script and provide a name for the project you want to create and boom! There you go!
+Godspeed gives you a god-like start into A-Frame using webpack and express to compile and run your JS! Run the bash script and provide a name for the project you want to create and boom! There you go!
 
 ### BUILT WITH
 * [EXPRESS](https://expressjs.com/) - Web framework for Node.js
@@ -11,9 +11,9 @@ Posthaste gives you a quickstart into A-Frame using webpack and express to compi
 ### COMPILE
 
 ```
-git clone https://github.com/digitalphant0m/posthaste.git
+git clone https://github.com/digitalphant0m/godspeed.git
 
-cd posthaste
+cd godspeed
 
 chmod +x setup.sh
 
